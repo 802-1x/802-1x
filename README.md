@@ -26,7 +26,7 @@ This list is largely independent of any professional employment context and refl
       <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
       <a href="https://github.com/PowerShell/PowerShell"><img src="https://img.shields.io/badge/powershell-00599C?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" /></a>
       <a href="https://github.com/rust-lang/rust"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
-      <a href="https://github.com/NixOS/nix"><img src="https://img.shields.io/badge/nix-000000?style=for-the-badge&logo=nix&logoColor=white" alt="nix" /></a>
+      <a href="https://github.com/NixOS/nix"><img src="https://img.shields.io/badge/nix-5277C3?style=for-the-badge&logo=nix&logoColor=white" alt="nix" /></a>
     </td>
   </tr>
   <tr>
