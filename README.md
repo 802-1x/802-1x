@@ -60,7 +60,7 @@ This list is largely independent of any professional employment context and refl
     <td>Design & Prototyping</td>
     <td>
       <a href="https://github.com/flutter/flutter">
-        <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
+        <img src="https://img.shields.io/badge/flutter-61DAFB?style=for-the-badge&logo=flutter" alt="Flutter">
       </a>
       <a href="https://gohugo.io/">
         <img src="https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white" alt="Hugo">
