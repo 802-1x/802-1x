@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My current interests in technology-related side projects lie in Linux niche technologies, especially NixOS. I'm thoroughly enjoying the super power that is ```nix-shell``` for containerised, ephemeral developer environments. Nix's composability has such a large positive potential for time savings, in particular with home lab situations. There's this seemingly awkward balance between time savings and 
+My current interests in technology-related side projects lie in Linux niche technologies, especially NixOS. I'm thoroughly enjoying the super power that is ```nix-shell``` for containerised, ephemeral developer environments. Nix's composability has such a large positive potential for time savings, in particular with home lab situations. There's this seemingly awkward balance between short term investment and the eventual pay off that I am not far enough through this journey to fully comment on yet. This may be a pyrrhic victory!
 
 ### Nerdy Stuff I Am Particularly Fond Of
 
