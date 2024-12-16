@@ -21,7 +21,7 @@ This list is largely independent of any professional employment context and refl
   <tr>
     <td>Programming Languages and Frameworks</td>
     <td>
-      <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript" alt="typescript" /></a>
+      <a href="https://github.com/microsoft/TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF" alt="TypeScript" /></a>
       <a href="https://github.com/reactjs/react.dev"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="react" /></a>
       <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
       <a href="https://github.com/PowerShell/PowerShell"><img src="https://img.shields.io/badge/powershell-00599C?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell" /></a>
