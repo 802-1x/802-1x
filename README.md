@@ -40,20 +40,14 @@ This list is largely independent of any professional employment context and refl
   <tr>
     <td>Editors</td>
     <td>
-      <a href="https://github.com/AstroNvim/AstroNvim">
-        <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-      </a>
+      <a href="https://github.com/AstroNvim/AstroNvim"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"></a>
     </td>
   </tr>
   <tr>
     <td>Embedded & IoT</td>
     <td>
-      <a href="https://www.raspberrypi.org">
-        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="raspberry pi">
-      </a>
-      <a href="https://azure.microsoft.com/en-au/products/iot-hub">
-        <img src="https://img.shields.io/badge/Azure%20IoT%20Central-00599C?style=for-the-badge&logo=AzureIoTCentral&logoColor=white" alt="Azure IoT Central">
-      </a>
+      <a href="https://www.raspberrypi.org"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="raspberry pi"></a>
+      <a href="https://azure.microsoft.com/en-au/products/iot-hub"><img src="https://img.shields.io/badge/Azure%20IoT%20Central-00599C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAABcRAAAXEQBa2qAyAAAABh0RVh0U29mdHdhcmUAcGFpbnQubmV0IDQuMS41ZEdYUgAAA3pJREFUWEftlkloU0EYx1ObLkmbzdjaxSVW1Hoo7nhQrCjiiq3QqlDFemm9CHoSkyZ5WWvautRWRRTUnjTaiwe3S6VUweWi6JuZl8SIWqSuuCEu+PzmOZGYTlKDFRT6g//hfe+b7z/zZnuqEUb4L6g580hT2oyXGAWyZYwPr59/JDyFvfq7bL8g5RR4sSfbJr5R7RblmDJAeoH0lbeF57DU4WdZ19M8nZP0UcNcO7pvduNd45tDVWYPqst34pNqq/hFbUWfin24mjUZXkxu0kXNzR5ywNkjq1n4J+X7QrOzbGJ/noBJQ/CVgYX/jNpgxFDkxyuK/XhHxu773wwuclGW5Qz2ehDrup4WWgJSpd6FW3Lt+GyuA5/TC2jv5LbQcqcsj2JpQ1MblDMLPNgLI/oQP9dlbZGFLGUQFR3hCp2Absbnx0vrwHentkbmsfTk0BHCZz6jNLLjWyYX2gYjqJ4KCkLHWNovTN9PFqlt4ttE00TBOvk4ZW94FWvGp8RHNtJks5ecpl+ChZOy5FhkbJYNDSSaJRN81TezOh9MZM0Ho3Piq1DwfdWJqJGFUmJyS+08o1TSONC9XLt4uNgv1dEzhZX6QXYTeqGFTrDHlNApyWlCr3gmv6ucJrF/QjNZzUoqHXgGC+Y6e+RSFgjPhZxuMH/HK5quRlnFr+P9oQ1KcThULmVaxc/zj0QtSiCB0j2kEd5/5RWiotsVzozj43xSZVlLeIFeEFtT5cektqF3Fe3SONWkgLSGBnQCvrH01BMz81U4elvOMgp4s9aJ6pOpwIuWLzgamQADOahzkcMTm6OWEr+0NdGQJ6NbalWMCn1SBw3A1nqeJ5BDY31ESEcaB8axoloHCvfAyamx42gslkx0cSodoGdBoYc0wnp4zEtMV3XdD4uVhc15Fy+YqtdKB2LQ49MSQNNmdEQXp6PRbhKMFTUIuHfn9UcaWLAv4814ggEPMOvBbL/wQp/vRCeHksGFvTthb5f4QuuL/GTLJrhFTXCB8QwTle/Al5kdH5ijB7yGiaJzaXShJnplw3a9xsvhyRIIbWZWfMZ48Q5ew+FQnhP1Dnlj0v8A2F5XeAX+RPCDc2dmu1TAbFLTcL5fa3KRTlixX3jF0hFs8w9w2+6rDQ7ks/K/T2VntGi0G9WorPfq0xXsiPpSL1659jjSsXIjjPCvoFJ9B3cI04mz8ybGAAAAAElFTkSuQmCC" alt="Azure IoT Central" /></a>
     </td>
   </tr>
   <tr>
