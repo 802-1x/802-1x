@@ -1,10 +1,12 @@
 ## Hello there 👋
 
-My current interests in technology-related side projects lie in Linux niche technologies, especially NixOS. I'm thoroughly enjoying the superpower that is ```nix-shell `` for containerised, ephemeral developer environments. Nix's composability has such a large positive potential for time savings, in particular with home lab situations. There's this seemingly awkward balance between short-term investment and the eventual payoff that I am not far enough through this journey to comment on fully yet. This may be a pyrrhic victory!
+The content herein is largely independent of any professional employment context and reflects side-project interests. There are some exceptions (for example, my summaries on team building and management: [Management](https://github.com/802-1x/Knowledge-Base-Public/blob/main/README.md)).
+
+### Current Interests
+
+My current technology-related side projects focus on Linux niche technologies, especially NixOS. I'm thoroughly enjoying the superpower that is ```nix-shell `` for containerised, ephemeral developer environments. Nix's composability has significant potential for time savings. There's this seemingly awkward balance between short-term investment and the eventual payoff that I am not far enough through this journey to comment on fully yet. This may be a pyrrhic victory!
 
 ### Nerdy Stuff I Am Particularly Fond Of
-
-This list is independent of any professional employment context and reflects side-project interests.
 
 <table>
   <tr>
