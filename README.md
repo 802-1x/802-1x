@@ -6,7 +6,7 @@ The content herein is largely independent of any professional employment context
 
 My current technology-related side projects focus on Linux niche technologies, especially NixOS. I'm thoroughly enjoying the superpower that is ```nix-shell `` for containerised, ephemeral developer environments. Nix's composability has significant potential for time savings. There's this seemingly awkward balance between short-term investment and the eventual payoff that I am not far enough through this journey to comment on fully yet. This may be a pyrrhic victory!
 
-### Nerdy Stuff I Am Particularly Fond Of
+### Personal Technology Project Ecosystem
 
 <table>
   <tr>
